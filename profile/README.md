@@ -11,7 +11,7 @@
 
 <a href="https://github.com/Manobal-Singh-Bagady"><img src="https://user-images.githubusercontent.com/96862518/211205777-1bac698f-ee83-4561-beff-149fa0e9c14d.png" width=120 align="right"></a>
 
-- 👨‍🎓My name is [*Manobal Singh Bagady*](https://github.com/Manobal-Singh-Bagady), a **Tech Enthusiast** by nature. I am currently pursuing my Bachelors in **Electrical Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
+- 👨‍🎓My name is [**Manobal Singh Bagady**](https://github.com/Manobal-Singh-Bagady), a **Tech Enthusiast** by nature. I am currently pursuing my Bachelors in **Electrical Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
 
 - 💻 I love to explore new kinds of technologies. Currently I am interested in learning professional level of programming.
 
