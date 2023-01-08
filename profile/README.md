@@ -4,9 +4,8 @@
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
-  This is a place to store all the projects that I create while learning new stuff or that I create to solve a particular problem.
+  ### This is a place to store all the projects that I create while learning new stuff or that I create to solve a particular problem.
 
-  ---
 
 ## 🙂 About Me
 
