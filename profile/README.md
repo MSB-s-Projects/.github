@@ -9,9 +9,7 @@
 
 ## 🙂 About Me
 
-
-
-<img style="border-radius:100%;margin-left:10px" src="https://avatars.githubusercontent.com/u/96862518?s=400&u=de6e58412c12de75d8739e48e6f7264f1fe8cd3b&v=4" width=70 align="right"> 
+<img src="https://user-images.githubusercontent.com/96862518/211205777-1bac698f-ee83-4561-beff-149fa0e9c14d.png" width=120 align="right"> 
 
 - 👨‍🎓My name is *Manobal Singh Bagady*, a **Tech Enthusiast** by nature. I am currently pursuing my Bachelors in **Electrical Engineering** from [**Punjab Engineering College**](https://pec.ac.in/).
 
